@@ -9,6 +9,8 @@ function App() {
 
   return (
     <>
+      <p className="text-3xl font-bold text-blue-600">Tailwind is working ✅</p>
+
       <section id="center">
         <div className="hero">
           <img src={heroImg} className="base" width="170" height="179" alt="" />
